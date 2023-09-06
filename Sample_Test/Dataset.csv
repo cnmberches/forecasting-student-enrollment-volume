@@ -1,0 +1,101 @@
+Student ID,First Name,Last Name,Date of Birth,Gender,Course,Department
+101,John,Smith,1998-05-15,Male,Computer Science,Engineering
+102,Emily,Johnson,1999-03-22,Female,Biology,Science
+103,Michael,Brown,2000-07-10,Male,Physics,Science
+104,Sarah,Davis,1997-11-30,Female,Mechanical Eng.,Engineering
+105,David,Wilson,2001-01-18,Male,Chemistry,Science
+106,Jennifer,Lee,1999-09-03,Female,Economics,Business
+107,Robert,Johnson,2002-02-20,Male,History,Humanities
+108,Lisa,Miller,1998-08-25,Female,Civil Engineering,Engineering
+109,James,White,1999-12-12,Male,Mathematics,Science
+110,Sarah,Martinez,2000-06-05,Female,Business Admin.,Business
+111,Maria,Garcia,2001-04-28,Female,English Literature,Humanities
+112,William,Adams,1998-10-03,Male,Electrical Eng.,Engineering
+113,Linda,Hall,2000-03-17,Female,Psychology,Social Sciences
+114,Daniel,Clark,1999-07-07,Male,Marketing,Business
+115,Amanda,Turner,2002-11-12,Female,Political Science,Social Sciences
+116,Olivia,Anderson,1998-09-14,Female,Environmental Sci.,Science
+117,Benjamin,Moore,2000-04-02,Male,Industrial Eng.,Engineering
+118,Sophia,Martinez,1999-06-28,Female,Finance,Business
+119,Ethan,Taylor,2001-08-07,Male,Political Science,Social Sciences
+120,Grace,Lewis,2002-03-19,Female,Anthropology,Social Sciences
+121,William,Walker,1997-12-23,Male,Graphic Design,Arts
+122,Sophia,Garcia,1999-05-03,Female,Electrical Eng.,Engineering
+123,Benjamin,Lopez,2000-01-11,Male,Linguistics,Humanities
+124,Emma,Adams,1998-10-28,Female,Business Admin.,Business
+125,James,King,2001-02-14,Male,Chemistry,Science
+126,Olivia,Lee,1999-07-26,Female,History,Humanities
+127,William,Brown,1998-04-09,Male,Mathematics,Science
+128,Sophia,Turner,2000-11-03,Female,Mechanical Eng.,Engineering
+129,Liam,Miller,1997-03-27,Male,Psychology,Social Sciences
+130,Emma,Robinson,2002-06-15,Female,Computer Science,Engineering
+131,Benjamin,Martinez,2000-12-08,Male,English Literature,Humanities
+132,Olivia,Clark,1999-08-02,Female,Physics,Science
+133,William,Perez,1998-02-17,Male,Marketing,Business
+134,Sophia,Nelson,2001-05-21,Female,Economics,Business
+135,Ethan,Allen,2002-10-12,Male,Sociology,Social Sciences
+136,Emma,Hill,1999-09-05,Female,Electrical Eng.,Engineering
+137,Benjamin,Collins,2001-01-28,Male,Psychology,Social Sciences
+138,Sophia,Murphy,2000-04-15,Female,Political Science,Social Sciences
+139,William,Baker,1998-11-19,Male,Chemistry,Science
+140,Olivia,Scott,1999-07-31,Female,Business Admin.,Business
+141,Ethan,Morris,2001-03-23,Male,Computer Science,Engineering
+142,Grace,Nelson,1998-12-11,Female,History,Humanities
+143,Benjamin,Simmons,1997-10-07,Male,Linguistics,Humanities
+144,Sophia,Long,2000-08-02,Female,Mathematics,Science
+145,William,Perry,1998-05-25,Male,Mechanical Eng.,Engineering
+146,Olivia,Bell,2001-02-09,Female,Physics,Science
+147,Emma,Peterson,2002-06-17,Female,Anthropology,Social Sciences
+148,Benjamin,Jenkins,1999-04-08,Male,Graphic Design,Arts
+149,Sophia,Coleman,1998-09-29,Female,Finance,Business
+150,Ethan,Reed,2000-10-14,Male,Economics,Business
+151,Grace,Turner,2002-08-03,Female,English Literature,Humanities
+152,William,White,1997-07-18,Male,Sociology,Social Sciences
+153,Sophia,Stewart,2000-11-05,Female,Industrial Eng.,Engineering
+154,Benjamin,Ward,1999-03-01,Male,Environmental Sci.,Science
+155,Olivia,Hayes,1998-01-12,Female,Marketing,Business
+156,Ethan,Foster,2001-07-28,Male,Political Science,Social Sciences
+157,Olivia,Richardson,2000-04-15,Female,Biology,Science
+158,William,Hayes,1998-12-19,Male,Mechanical Eng.,Engineering
+159,Sophia,Peterson,1999-09-11,Female,Computer Science,Engineering
+160,Benjamin,Bell,2001-03-05,Male,Chemistry,Science
+161,Emma,Morris,1998-10-22,Female,History,Humanities
+162,Grace,Long,1999-11-07,Female,Linguistics,Humanities
+163,Olivia,Coleman,2000-08-30,Female,Mathematics,Science
+164,Sophia,Perry,1997-06-14,Female,Economics,Business
+165,William,Jenkins,2002-02-02,Male,Business Admin.,Business
+166,Benjamin,Simmons,2001-05-25,Male,Political Science,Social Sciences
+167,Emma,Scott,1999-08-19,Female,Chemistry,Science
+168,Ethan,Baker,1998-03-29,Male,Sociology,Social Sciences
+169,Grace,Murphy,2000-01-09,Female,Electrical Eng.,Engineering
+170,William,Collins,1999-02-14,Male,Anthropology,Social Sciences
+171,Sophia,Hill,1997-07-20,Female,Graphic Design,Arts
+172,Olivia,Taylor,2002-09-16,Female,Physics,Science
+173,Benjamin,Lewis,2000-06-08,Male,Finance,Business
+174,Ethan,Nelson,2001-12-03,Male,English Literature,Humanities
+175,Grace,Adams,1998-02-25,Female,Environmental Sci.,Science
+176,Benjamin,Perez,2001-04-18,Male,Marketing,Business
+177,Olivia,Walker,2000-10-30,Female,History,Humanities
+178,William,Anderson,1997-06-02,Male,Sociology,Social Sciences
+179,Sophia,Turner,2002-03-14,Female,Environmental Sci.,Science
+180,Benjamin,Hill,1998-09-09,Male,Mechanical Eng.,Engineering
+181,Emma,Baker,1999-01-27,Female,Mathematics,Science
+182,Ethan,Scott,2001-11-08,Male,Computer Science,Engineering
+183,Grace,Murphy,1998-08-16,Female,Business Admin.,Business
+184,Olivia,Peterson,1999-05-02,Female,Political Science,Social Sciences
+185,William,Hayes,2000-07-21,Male,Chemistry,Science
+186,Sophia,Morris,1998-04-17,Female,Economics,Business
+187,Benjamin,Foster,1999-12-12,Male,Graphic Design,Arts
+188,Emma,Coleman,2002-02-25,Female,Electrical Eng.,Engineering
+189,Ethan,Simmons,2000-03-07,Male,English Literature,Humanities
+190,Grace,Bell,1998-01-15,Female,Anthropology,Social Sciences
+191,Olivia,Nelson,1997-07-28,Female,Physics,Science
+192,William,Lewis,2001-09-03,Male,Finance,Business
+193,Sophia,Jenkins,2000-06-21,Female,Linguistics,Humanities
+194,Benjamin,Perry,1999-03-12,Male,Psychology,Social Sciences
+195,Emma,Taylor,1998-10-04,Female,Marketing,Business
+196,Ethan,Ward,2001-07-19,Male,Political Science,Social Sciences
+197,Grace,Long,2002-04-09,Female,Chemistry,Science
+198,Olivia,Jenkins,1997-11-27,Female,Business Admin.,Business
+199,William,Hayes,1998-06-15,Male,Mechanical Eng.,Engineering
+200,Sophia,Morris,2000-02-08,Female,Computer Science,Engineering
